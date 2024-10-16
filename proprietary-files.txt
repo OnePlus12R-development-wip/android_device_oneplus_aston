@@ -1250,6 +1250,7 @@ odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm8.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/mcfCheck.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/mcfCheck_low.txt
 odm/etc/iris_configs.xml
+s
 odm/etc/irissoft_samsung_AMB670YF07_CS_dsc_cmd_mode_panel.dat
 odm/etc/irissoft_samsung_AMB670YF07_CS_dsc_cmd_mode_panel.fw
 odm/etc/irissoft_samsung_AMB670YF07_CS_dsc_cmd_mode_panel.xml

@@ -835,7 +835,7 @@ odm/lib64/libOPAlgoCamAIBeautyBodyDetection.so
 odm/lib64/libOPAlgoCamAiBeautyEyeRetouchCn.so
 odm/lib64/libOPAlgoCamAiBeautyFaceRetouchCn.so
 odm/lib64/libOPAlgoCamAiUnifySkin.so
-odm/lib64/libOPAlgoCamFaceBeautyCap.so
+odm/lib64/libOPAlgoCamFaceBeautyCap.so;DISABLE_CHECKELF
 odm/lib64/libOPAlgoCamSinglePortrait.so
 odm/lib64/libOPLUSMotionDetection.so
 odm/lib64/libOPLUS_SCPortrait.so;FIX_SONAME
@@ -869,7 +869,7 @@ odm/lib64/lib_rectify.so
 odm/lib64/libaecCustom.so
 odm/lib64/libaecCustomParamParser.so
 odm/lib64/libafCustomParamParser.so
-odm/lib64/libaiboost_qnn_external_delegate_te.so
+odm/lib64/libaiboost_qnn_external_delegate_te.so;FIX_SONAME
 odm/lib64/libaideblur.so
 odm/lib64/libaisal.so
 odm/lib64/libaisd.so

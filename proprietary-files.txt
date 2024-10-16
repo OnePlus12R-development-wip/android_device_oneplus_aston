@@ -1244,7 +1244,6 @@ odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm23.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm26.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm29.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm2_Def.txt
-sex
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm32.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm5.txt
 odm/etc/inparm/irissoft_samsung_AMB670YF08_FS_dsc_cmd_mode_panel/inParm8.txt
